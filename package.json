@@ -1,7 +1,7 @@
 {
 	"name": "vscode-var-colors",
-	"displayName": "Var colors",
-	"version": "0.0.3",
+	"displayName": "Var colors Autocomplete",
+	"version": "0.0.4",
 	"publisher": "vscode-var-colors",
 	"repository": {
 		"type": "git",
