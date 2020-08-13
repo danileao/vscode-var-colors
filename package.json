@@ -1,7 +1,7 @@
 {
 	"name": "vscode-var-colors",
 	"displayName": "Var colors",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "vscode-var-colors",
 	"repository": {
 		"type": "git",
